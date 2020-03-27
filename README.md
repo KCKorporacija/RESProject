@@ -1,2 +1,3 @@
 # RESProject
-Projekat iz predmeta Razvoj elektroenergetskog sistema
+Projekat iz predmeta Razvoj elektroenergetskog softvera
+
